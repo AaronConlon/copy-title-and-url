@@ -4,8 +4,8 @@
 
 # copy-title-and-url
 
-![Chrome网上应用店](https://img.shields.io/chrome-web-store/v/YOUR_EXTENSION_ID)
-![Chrome网上应用店用户数](https://img.shields.io/chrome-web-store/users/YOUR_EXTENSION_ID)
+![Chrome网上应用店](https://img.shields.io/chrome-web-store/v/ckjejjphgegldelekipaegijidhdjjed)
+![Chrome网上应用店用户数](https://img.shields.io/chrome-web-store/users/ckjejjphgegldelekipaegijidhdjjed)
 ![GitHub许可证](https://img.shields.io/github/license/AaronColon/copy-title-and-url)
 ![Node.js版本](https://img.shields.io/badge/node-v20.14.0-brightgreen)
 ![Plasmo](https://img.shields.io/badge/框架-Plasmo-blueviolet)

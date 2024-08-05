@@ -6,8 +6,8 @@
 
 [中文🔗](./README.zh.md)
 
-![Chrome Web Store](https://img.shields.io/chrome-web-store/v/YOUR_EXTENSION_ID)
-![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/YOUR_EXTENSION_ID)
+![Chrome Web Store](https://img.shields.io/chrome-web-store/v/ckjejjphgegldelekipaegijidhdjjed)
+![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/ckjejjphgegldelekipaegijidhdjjed)
 ![GitHub license](https://img.shields.io/github/license/AaronConlon/copy-title-and-url)
 ![Node.js Version](https://img.shields.io/badge/node-v20.14.0-brightgreen)
 ![Plasmo](https://img.shields.io/badge/framework-Plasmo-blueviolet)
